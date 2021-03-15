@@ -1,0 +1,11 @@
+e2;e8
+e3;e7
+e4;e6
+e3h;b3h
+e5;d6h
+d4h;f6h
+f4h;h6h
+e5v;b6h
+b4h;a3v
+a1h;c2v
+a7v;c6v
